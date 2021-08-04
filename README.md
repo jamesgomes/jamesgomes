@@ -39,7 +39,6 @@
       target="_blank"></a>
 
 </div>
-<div style="display: inline_block">
+  
+  ##
 ![Snake animation](https://github.com/jamesgomes/jamesgomes/blob/output/github-contribution-grid-snake.svg)
-</div>
-
