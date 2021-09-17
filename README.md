@@ -1,4 +1,4 @@
-## Olá! Eu sou o James.
+## Olá! Eu sou o James
 <div>
   <a href="https://github.com/jamesgomes">
     <img width="50%"
